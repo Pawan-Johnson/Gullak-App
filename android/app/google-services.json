@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "352743029815",
+    "project_id": "gullak-acb53",
+    "storage_bucket": "gullak-acb53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352743029815:android:655cfeee0a733846c153b2",
+        "android_client_info": {
+          "package_name": "com.example.gullack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352743029815-63f3urvv60r9r2gp3rviujti5ld66vvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6EPmTNy_UeyRhQD7o5yflP1o0RdLLi5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352743029815-63f3urvv60r9r2gp3rviujti5ld66vvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352743029815:android:7bf19ce77e1981d6c153b2",
+        "android_client_info": {
+          "package_name": "com.iitkgp.gullak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352743029815-63f3urvv60r9r2gp3rviujti5ld66vvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6EPmTNy_UeyRhQD7o5yflP1o0RdLLi5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352743029815-63f3urvv60r9r2gp3rviujti5ld66vvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
